@@ -1,0 +1,4 @@
+entity/Animal_.class
+rest/AnimalFromDB.class
+rest/ApplicationConfig.class
+entity/Animal.class
